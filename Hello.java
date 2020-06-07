@@ -28,7 +28,8 @@ public class Hello{
 			System.out.println("HelloWorld!! demo on webhooks");
 			System.out.println("HelloWorld 2!! demo on webhooks");
 			
-			System.out.println("Github Webhooks Demo!!");
+			System.out.println("Github Webhooks Demo-01!!");
+			System.out.println("Github Webhooks Demo-02!!");
 		}
 	}
 	
